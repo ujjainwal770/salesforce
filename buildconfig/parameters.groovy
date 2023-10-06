@@ -1,0 +1,6 @@
+env.source_user="demotest1@demo.com"
+env.source_url="https://ability-efficiency-3940-dev-ed.scratch.my.salesforce.com"
+env.dest_user="demotest2@demo.com"
+env.dest_url="https://force-platform-3440-dev-ed.scratch.my.salesforce.com"
+env.pmdConfigLoc="buildconfig/pmd-rules.xml"
+env.engines="pmd"
